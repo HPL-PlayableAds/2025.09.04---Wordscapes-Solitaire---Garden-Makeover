@@ -1,0 +1,64 @@
+{
+  "ignores": [
+    "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleAudio.cs",
+    "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModulePhysics.cs",
+    "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModulePhysics2D.cs",
+    "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleSprite.cs",
+    "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleUI.cs",
+    "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleUnityVersion.cs"
+  ],
+  "groups": [
+    [
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Audio/Scripts/AudioChannel.cs",
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Audio/Scripts/AudioLibrary.cs",
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Audio/Scripts/AudioManager.cs",
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Scripts/AnswerBox.cs",
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Scripts/AnswerManager.cs",
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Scripts/Draggable Card.cs",
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Scripts/Card Row.cs",
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween Extras/UIPopUp.cs",
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Scripts/GameManager.cs",
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween Extras/UIFader.cs",
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Core/Services/IAudioService.cs"
+    ],
+    [
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween Extras/SmoothScrollRect.cs"
+    ],
+    [
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween Extras/UIShaker.cs"
+    ],
+    [
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleAudio.cs"
+    ],
+    [
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleEPOOutline.cs"
+    ],
+    [
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModulePhysics.cs"
+    ],
+    [
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModulePhysics2D.cs"
+    ],
+    [
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleSprite.cs"
+    ],
+    [
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleUI.cs"
+    ],
+    [
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleUnityVersion.cs"
+    ],
+    [
+      "D:/Unity Files/2025.09.04 - Wordscapes Solitaire - Garden Makeover/LunaTemp/stage3/processed-scripts/Assets/Resources/DOTween/DOTween_1_2_765/DOTween/Modules/DOTweenModuleUtils.cs"
+    ],
+    [
+      "C:/Users/JA.Sabado/Desktop/Luna Playworks PLugin/pipeline/templates/LunaCompiler/Scripts/Properties/AssemblyInfo.cs"
+    ],
+    [
+      "C:/Users/JA.Sabado/Desktop/Luna Playworks PLugin/pipeline/templates/LunaCompiler/Scripts/Sources/OtherDummyScript.cs"
+    ],
+    [
+      "C:/Users/JA.Sabado/Desktop/Luna Playworks PLugin/pipeline/templates/LunaCompiler/Scripts/obj/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+    ]
+  ]
+}

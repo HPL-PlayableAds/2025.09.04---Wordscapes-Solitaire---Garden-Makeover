@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 300ab585a29dd9044ac9e2dc4b1e6a3f, type: 3}
+  m_Name: Grandma's House Audio
+  m_EditorClassIdentifier: 
+  clips:
+  - key: BGM
+    channel: 0
+    clip: {fileID: 8300000, guid: 74137c6519999ff4f8a5b909b2eca99f, type: 3}
+    volume: 1
+    loop: 1
+  - key: Select
+    channel: 1
+    clip: {fileID: 8300000, guid: 34adb649e556e76418a1b0d87b0bd2cb, type: 3}
+    volume: 1
+    loop: 0
+  - key: Place
+    channel: 1
+    clip: {fileID: 8300000, guid: e212c5e24427c854db5f7b6ac48d294c, type: 3}
+    volume: 1
+    loop: 0
+  - key: Woosh
+    channel: 1
+    clip: {fileID: 8300000, guid: 614f8abc9cae4b14cb97020d2a954a86, type: 3}
+    volume: 0.3
+    loop: 0
+  - key: FlipCard
+    channel: 1
+    clip: {fileID: 8300000, guid: 3a039b8533c354745ada2701d476291b, type: 3}
+    volume: 0.3
+    loop: 0
+  - key: Incorrect
+    channel: 1
+    clip: {fileID: 8300000, guid: ec8ae1653fa7e0444b5543f760184329, type: 3}
+    volume: 1
+    loop: 0
+  - key: Correct
+    channel: 1
+    clip: {fileID: 8300000, guid: d23b03ef16b3fcb48874dfb47151307e, type: 3}
+    volume: 1
+    loop: 0
+  - key: BigWin
+    channel: 1
+    clip: {fileID: 8300000, guid: 5e55dd5ecbcfeaa4ab6544138774e2b4, type: 3}
+    volume: 1
+    loop: 0
